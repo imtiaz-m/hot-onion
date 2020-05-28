@@ -1,0 +1,42 @@
+.checkout-button{
+    text-align: center;
+}
+.checkout-button button{
+    font-size: 18px;
+    padding: 10px 35px;
+    margin-top: 20px;
+    border-radius: 10px;
+    background-color: rgb(240, 196, 240);
+}
+
+
+.breakfast-container{
+    background-color: rgb(242, 249, 253);
+}
+.dinner{
+    background-color:white;
+    padding-top: 20px;
+ width: 300px;
+ height: 300px;
+ border: 1px solid rgb(252, 232, 232);
+float: left;
+margin-left: 50px;
+text-align: center;
+margin-top: 50px;
+margin-right: 20px;
+border-radius: 5px;
+cursor: pointer;
+
+
+ 
+}
+.dinner img{
+    height: 150px;
+    
+   
+}
+.dinner:hover{
+  
+    background-color: rgb(247, 229, 229);
+    border-radius: 10px;
+}

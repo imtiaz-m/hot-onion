@@ -1,0 +1,29 @@
+.launch-container{
+    background-color: rgb(242, 249, 253);
+}
+.launch{
+    background-color:white;
+    padding-top: 20px;
+ width: 300px;
+ height: 300px;
+ border: 1px solid rgb(247, 235, 235);
+float: left;
+margin-left: 50px;
+text-align: center;
+margin-top: 50px;
+margin-right: 20px;
+border-radius: 5px;
+cursor: pointer;
+
+ 
+}
+.launch img{
+    height: 150px;
+    
+   
+}
+.launch:hover{
+  
+    background-color: rgb(247, 229, 229);
+    border-radius: 10px;
+}

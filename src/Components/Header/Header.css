@@ -1,0 +1,60 @@
+.header{
+  
+}
+.logo img{
+ height:20px;
+ width:400px;
+ 
+}
+.logo{
+   
+    display: flex;
+    margin:50px;
+}
+.sign-i-up{
+    font-size: 20px;
+    
+    margin-left:40%;
+    text-decoration: none;
+    
+    
+}
+.sign-up{
+    
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(226, 191, 114);
+    padding: 5px 10px;
+}
+.sign-in{
+   margin-right: 20px;
+   border: 1px solid gray;
+   border-radius: 5px;
+   background-color: rgb(226, 191, 114);
+   padding: 5px 10px;
+
+}
+div button:hover{
+    background-color:rgb(236, 59, 118) ;
+}
+.back img{
+    height:350px;
+}
+.header nav{
+    text-align: center;
+    background-color:white;
+    line-height: 40px;
+    font-size: 25px;
+    margin-top:30px;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 15px;
+    padding: 10px;
+}
+nav a:hover{
+    background-color: rgb(236, 59, 118);
+    border-radius: 10px;
+    text-decoration: brown;
+}
