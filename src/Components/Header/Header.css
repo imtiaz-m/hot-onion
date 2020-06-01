@@ -12,7 +12,7 @@
     margin:50px;
 }
 .sign-i-up{
-    font-size: 20px;
+    font-size: 30px;
     
     margin-left:40%;
     text-decoration: none;
@@ -34,6 +34,14 @@
    padding: 5px 10px;
 
 }
+.sign-out{
+    margin-right: 20px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    background-color: rgb(226, 191, 114);
+    padding: 5px 10px;
+ 
+ }
 div button:hover{
     background-color:rgb(236, 59, 118) ;
 }
@@ -57,4 +65,8 @@ nav a:hover{
     background-color: rgb(236, 59, 118);
     border-radius: 10px;
     text-decoration: brown;
+}
+.login{
+    margin-left: 300px;
+    
 }
